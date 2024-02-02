@@ -1,5 +1,5 @@
 import React from 'react';
-// You can import other components or styles if needed
+//import other components or styles if needed
 
 const AboutPage = () => {
   return (
